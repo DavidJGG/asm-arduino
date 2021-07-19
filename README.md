@@ -29,7 +29,7 @@ Se agrega un par de puertos, depende los nombres con los que se generen, así se
 * led1a -> apaga el led 1
 * led2e -> enciende el led 2
 * led2a -> apaga el led 2
-* d<numero> -> enciende el display con el numero indicado
+* d# -> enciende el display con el numero indicado
  * Ejemplo: d8  enciende el numero 8 en el display
 
 Presionar enter para enviar el comando.
