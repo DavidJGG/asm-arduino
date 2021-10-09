@@ -18,7 +18,7 @@ El nombre del com1 depende del puerto que se va a enlazar con DOSBox
 ### Configuracion de puertos virtuales:
 Hay que usar un emulador de puertos:
 Se agrega un par de puertos, depende los nombres con los que se generen, así se configura el DOSBox, el otro puerto se configura en proteus
-* Yo configure: 
+* Yo configuré: 
   * COM1 -> para DOSBox
   * COM2 -> proteus
  
